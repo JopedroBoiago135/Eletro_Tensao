@@ -56,7 +56,7 @@ Link: https://tinyurl.com/2eew96xv
 
 
 # Agradecimentos
-Prof Simões
+Prof Simões (vulgo Simas)
 
 
 
