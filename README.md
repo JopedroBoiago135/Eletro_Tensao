@@ -1,17 +1,19 @@
 # Fonte de Tensão
 Trabalho de Eletronica BCC23
 
+
 # Membros
 Os integrantes pertencentes a este grupo são:
   - Henrique Drago
   - Henrique Yukio Sekido
   - Driely Fernanda Oliveira de Abreu
-  - João Pedro Boiago Gomes Santana
+   - João Pedro Boiago Gomes Santana
   
 # Objetivo
 Projetar e construir uma fonte de tensão ajustavel entre 3V e 12V a partir de uma fonte energia alternada (60 hertz) de 127V com pico de 180V.
 
-# Componentes Utilizados:
+
+# Componentes Utilizados
 | Quantidade | Componentes                      | Valor R$ |
 |------------|----------------------------------|----------|
 | 4          | Diodo                            |  |
@@ -23,6 +25,7 @@ Projetar e construir uma fonte de tensão ajustavel entre 3V e 12V a partir de u
 | 1          | Transistor NPN 2N3904            |  |
 | 1          | Transformador (127 -> 12V 300mA) |  |
 | Total      |                                  | SIM |
+
 
 # Explicação das Peças
 
@@ -38,15 +41,19 @@ Potenciômetro:
 
 Transistor: 
 
+
 # Esquema do Projeto no Falstad
 
 <img src="./Imagens/Imagem Falstad.png">
 
 Link: https://tinyurl.com/2eew96xv
 
+
 # Esquema do Projeto no Eagle
 
+
 # Video Explicativo do Projeto (Youtube)
+
 
 # Agradecimentos
 Prof Simões
