@@ -26,6 +26,18 @@ Projetar e construir uma fonte de tensão ajustavel entre 3V e 12V a partir de u
 
 # Explicação das Peças
 
+Transformador:
+
+Diodos:
+
+Capacitor:
+
+Diodo Zenner: 
+
+Potenciômetro: 
+
+Transistor: 
+
 # Esquema do Projeto no Falstad
 
 Link: 
