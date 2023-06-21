@@ -40,7 +40,7 @@ Transistor:
 
 # Esquema do Projeto no Falstad
 
-Link: 
+Link: https://tinyurl.com/2jpbrzgm
 
 # Esquema do Projeto no Eagle
 
