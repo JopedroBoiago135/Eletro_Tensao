@@ -2,9 +2,9 @@
 Trabalho de Eletronica BCC23
 
 # Membros
-- Driely Fernanda Oliveira de Abreu
 - Henrique Drago
 - Henrique Yukio Sekido
+- Driely Fernanda Oliveira de Abreu
 - João Pedro Boiago Gomes Santana
   
 # Objetivo
