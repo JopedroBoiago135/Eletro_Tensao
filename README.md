@@ -35,7 +35,11 @@ Projetar e construir uma fonte de tensão ajustavel entre 3V e 12V a partir de u
 
 - Capacitor:
 
-- Diodo Zenner: 
+- Diodo Zenner:
+
+- Resistor 1.2k:
+
+- Resistor 5.6k:
 
 - Potenciômetro: 
 
