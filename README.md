@@ -28,7 +28,14 @@ Projetar e construir uma fonte de tensão ajustavel entre 3V e 12V a partir de u
 
 # Esquema do Projeto no Falstad
 
+Link: 
+
 # Esquema do Projeto no Eagle
+
+# Video Explicativo do Projeto (Youtube)
+
+# Agradecimentos
+Prof Simôes
 
 
 
