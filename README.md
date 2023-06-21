@@ -2,11 +2,11 @@
 Trabalho de Eletronica BCC23
 
 # Membros
+- Driely Fernanda Oliveira de Abreu
 - Henrique Drago
-- João Santana Boiago
 - Henrique Yukio Sekido
-- Driely
-
+- João Pedro Boiago Gomes Santana
+  
 # Objetivo
 Projetar e construir uma fonte de tensão ajustavel entre 3V e 12V a partir de uma fonte energia alternada (60 hertz) de 127V com pico de 180V.
 
