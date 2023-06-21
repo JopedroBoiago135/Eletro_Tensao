@@ -35,7 +35,7 @@ Link:
 # Video Explicativo do Projeto (Youtube)
 
 # Agradecimentos
-Prof Simôes
+Prof Simões
 
 
 
