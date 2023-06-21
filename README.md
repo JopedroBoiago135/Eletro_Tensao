@@ -24,7 +24,7 @@ Projetar e construir uma fonte de tensão ajustavel entre 3V e 12V a partir de u
 | 1          | Transformador (Razão 10) |  |
 | 1          | Fusível                  |  |
 | 1          | Varistor                 |  |
-| Total      |                          |  |
+| Total      |                          | SIM |
 
 #
 
