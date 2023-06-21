@@ -14,17 +14,17 @@ Projetar e construir uma fonte de tensão ajustavel entre 3V e 12V a partir de u
 
 
 # Componentes Utilizados
-| Quantidade | Componentes                      | Valor R$ |
-|------------|----------------------------------|----------|
-| 4          | Diodo                            |  |
-| 1          | Capacitor 1mF                    |  |
-| 1          | Resistor 5.6k                    |  |
-| 1          | Resistor 1.2k                    |  |
-| 1          | Potenciômetro  10k               |  |
-| 1          | Diodo Zener (13v)                |  |
-| 1          | Transistor NPN 2N3904            |  |
-| 1          | Transformador (127 -> 12V 300mA) |  |
-| Total      |                                  | SIM |
+| Quantidade | Componentes                       | Valor R$ |
+|------------|-----------------------------------|----------|
+| 4          | Diodo                             |  |
+| 1          | Capacitor 1mF                     |  |
+| 1          | Resistor 5.6k                     |  |
+| 1          | Resistor 1.2k                     |  |
+| 1          | Potenciômetro  10k                |  |
+| 1          | Diodo Zener (13V)                 |  |
+| 1          | Transistor NPN 2N3904             |  |
+| 1          | Transformador (127V -> 12V 300mA) |  |
+| Total      |                                   | 99999999 |
 
 
 # Explicação das Peças
