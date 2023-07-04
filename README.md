@@ -56,7 +56,10 @@ Projetar e construir uma fonte de tensão ajustavel entre 3V e 12V a partir de u
 Link: https://tinyurl.com/2eew96xv
 
 
-# Esquema do Projeto no Eagle
+# Esquemático no Eagle
+
+
+# PCB no Eagle
 
 
 # Video Explicativo do Projeto (Youtube)
