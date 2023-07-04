@@ -58,7 +58,7 @@ Link: https://tinyurl.com/2eew96xv
 
 # Esquemático no Eagle
 
-<img src="./Imagens/Imagem Falstad.png">
+<img src="./Imagens/Imagem Eagle.png">
 
 # PCB no Eagle
 
