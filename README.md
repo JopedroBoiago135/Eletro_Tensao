@@ -1,5 +1,5 @@
 # Fonte de Tensão
-Trabalho I de Eletronica BCC23
+Trabalho I de Eletronica BCC23 - Fonte de Tensão
 
 # Membros
 Os integrantes pertencentes a este grupo são:
