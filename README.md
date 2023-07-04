@@ -4,10 +4,10 @@ Trabalho de Eletronica BCC23
 
 # Membros
 Os integrantes pertencentes a este grupo são:
-  - Henrique Drago
-  - Henrique Yukio Sekido
-  - Driely Fernanda Oliveira de Abreu
-   - João Pedro Boiago Gomes Santana
+  - **Henrique Drago** - [HenriqueDrago](https://github.com/HenriqueDrago)
+  - **Henrique Yukio Sekido** - [Riquey654](https://github.com/Riquey654)
+  - **Driely Fernanda Oliveira de Abreu** - 
+  - **João Pedro Boiago Gomes Santana** - [JopedroBoiago135](https://github.com/JopedroBoiago135)
   
 # Objetivo
 Projetar e construir uma fonte de tensão ajustavel entre 3V e 12V a partir de uma fonte energia alternada (60 hertz) de 127V com pico de 180V.
