@@ -58,9 +58,11 @@ Link: https://tinyurl.com/2eew96xv
 
 # Esquemático no Eagle
 
+<img src="./Imagens/Imagem Falstad.png">
 
 # PCB no Eagle
 
+<img src="./Imagens/Imagem Falstad.png">
 
 # Video Explicativo do Projeto (Youtube)
 
