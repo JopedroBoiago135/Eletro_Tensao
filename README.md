@@ -16,15 +16,16 @@ Projetar e construir uma fonte de tensão ajustavel entre 3V e 12V a partir de u
 # Componentes Utilizados
 | Quantidade | Componentes                       | Valor R$ |
 |------------|-----------------------------------|----------|
-| 4          | Diodo                             |  |
-| 1          | Capacitor 1mF                     |  |
-| 1          | Resistor 5.6k                     |  |
-| 1          | Resistor 1.2k                     |  |
-| 1          | Potenciômetro  10k                |  |
-| 1          | Diodo Zener (13V)                 |  |
-| 1          | Transistor NPN 2N3904             |  |
-| 1          | Transformador (127V -> 12V 300mA) |  |
-| Total      |                                   | 99999999 |
+| 4          | Diodo                             | R$ 02,00 |
+| 1          | Capacitor 1mF                     | R$ 00,50 |
+| 1          | Resistor 5.6k                     | R$ 00,70 |
+| 1          | Resistor 1.2k                     | R$ 00,07 |
+| 1          | Potenciômetro  10k                | R$ 04,75 |
+| 1          | Diodo Zener (13V)                 | R$ 00,48 |
+| 1          | Transistor NPN 2N3904             | R$ 01,60 |
+| 1          | Transformador (127V -> 12V 300mA) | R$ 43,20 |
+| 1          | Resistor 120                      | R$ 00,70 |
+| Total      |                                   | R$ 66,00 |
 
 
 # Explicação das Peças
@@ -44,6 +45,8 @@ Projetar e construir uma fonte de tensão ajustavel entre 3V e 12V a partir de u
 - Potenciômetro: Permite o ajuste entre 3V e 12V.
 
 - Transistor: Trabalha junto do potenciômetro permitir o ajuste entre 3V e 12V.
+
+- Resistor 120: Simula a saída da fonte.
 
 
 # Esquema do Projeto no Falstad
