@@ -30,21 +30,21 @@ Projetar e construir uma fonte de tensão ajustavel entre 3V e 12V a partir de u
 
 # Explicação das Peças
 
-- Transformador: Responsável por converter a tensão da rede eletrica (127V rms, 180V de pico) para a desejada no circuito (12V de rms, 18V de pico). Funciona por meio de indução magnetica, a razão entre o numero de voltas do fio em cada lado do transformador dita a taxa de conversão da corrente.
+- Transformador: Responsável por converter a tensão da rede eletrica (127V rms, 180V de pico) para a desejada no circuito (12V de rms, 18V de pico). Funciona por meio de indução magnetica, a razão entre o numero de voltas do fio em cada lado do transformador dita a taxa de conversão da corrente;
 
-- Diodos: Permitem a passagem de corrente em só um sentido. A Ponte de Diodos é construida de forma que independentemente da fase da tensão, sempre chegará um valor positivo ao outro lado da ponte, tornando a corrente continua.
+- Diodos: Permitem a passagem de corrente em só um sentido. A Ponte de Diodos é construida de forma que independentemente da fase da tensão, sempre chegará um valor positivo ao outro lado da ponte, tornando a corrente continua;
 
-- Capacitor: Armazena eletrons durante os picos e libera durante os vales, diminuindo a variação da tensão.
+- Capacitor: Armazena eletrons durante os picos e libera durante os vales, diminuindo a variação da tensão;
 
-- Diodo Zenner: Limita a corrente maxima que chega no resistor final.
+- Diodo Zenner: Limita a corrente maxima que chega no resistor final;
 
-- Resistor 1.2k: Utilizado para reduzir o desperdicio de energia.
+- Resistor 1.2k: Utilizado para reduzir o desperdicio de energia;
 
-- Resistor 5.6k: Utilizado para ajustar o limite inferior para 3V.
+- Resistor 5.6k: Utilizado para ajustar o limite inferior para 3V;
 
-- Potenciômetro: Permite o ajuste entre 3V e 12V.
+- Potenciômetro: Permite o ajuste entre 3V e 12V;
 
-- Transistor: Trabalha junto do potenciômetro permitir o ajuste entre 3V e 12V.
+- Transistor: Trabalha junto do potenciômetro permitir o ajuste entre 3V e 12V;
 
 - Resistor 120: Simula a saída da fonte.
 
