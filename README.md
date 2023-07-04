@@ -62,7 +62,7 @@ Link: https://tinyurl.com/2eew96xv
 
 # PCB no Eagle
 
-<img src="./Imagens/Imagem Falstad.png">
+<img src="./Imagens/Imagem PCB.png">
 
 # Video Explicativo do Projeto (Youtube)
 
