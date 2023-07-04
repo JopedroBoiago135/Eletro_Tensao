@@ -4,7 +4,7 @@ Trabalho I de Eletronica BCC23 - Fonte de Tensão
 # Membros
 Os integrantes pertencentes a este grupo são:
   -  - **Henrique Drago** - [HenriqueDrago](https://github.com/HenriqueDrago)
-  -  - **Henrique Yukio Sekido** - [Riquey654](https://github.com/Riquey654)
+  - 14614564 - **Henrique Yukio Sekido** - [Riquey654](https://github.com/Riquey654)
   -  - **Driely Fernanda Oliveira de Abreu** - 
   - 14747211 - **João Pedro Boiago Gomes Santana** - [JopedroBoiago135](https://github.com/JopedroBoiago135)
   
