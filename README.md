@@ -25,7 +25,7 @@ Projetar e construir uma fonte de tensão ajustavel entre 3V e 12V a partir de u
 | 1          | Transistor NPN 2N3904             | R$ 01,60 |
 | 1          | Transformador (127V -> 12V 300mA) | R$ 43,20 |
 | 1          | Resistor 120                      | R$ 00,70 |
-| Total      |                                   | R$ 66,00 |
+| Total      |                                   | R$ 54,00 |
 
 
 # Explicação das Peças
