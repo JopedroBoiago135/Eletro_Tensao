@@ -7,7 +7,7 @@ Os integrantes pertencentes a este grupo são:
   - 14614564 - **Henrique Yukio Sekido** - [Riquey654](https://github.com/Riquey654)
   - 14747211 - **João Pedro Boiago Gomes Santana** - [JopedroBoiago135](https://github.com/JopedroBoiago135)
 
-<img src="./Imagens/Imagem Grupo.png" alt="Descrição da imagem" width="500" height="300" /> >
+<img src="./Imagens/Imagem Grupo.png" width="600" height="450" /> 
   
 # Objetivo
 Projetar e construir uma fonte de tensão ajustavel entre 3V e 12V a partir de uma fonte energia alternada (60 hertz) de 127V com pico de 180V.
