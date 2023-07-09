@@ -6,6 +6,8 @@ Os integrantes pertencentes a este grupo são:
   - 14675441 - **Henrique Drago** - [HenriqueDrago](https://github.com/HenriqueDrago)
   - 14614564 - **Henrique Yukio Sekido** - [Riquey654](https://github.com/Riquey654)
   - 14747211 - **João Pedro Boiago Gomes Santana** - [JopedroBoiago135](https://github.com/JopedroBoiago135)
+
+<img src="./Imagens/Imagem Grupo.png">
   
 # Objetivo
 Projetar e construir uma fonte de tensão ajustavel entre 3V e 12V a partir de uma fonte energia alternada (60 hertz) de 127V com pico de 180V.
@@ -53,6 +55,9 @@ Projetar e construir uma fonte de tensão ajustavel entre 3V e 12V a partir de u
 
 Link: https://tinyurl.com/2eew96xv
 
+# Esquema do TinkerCad
+
+<img src="./Imagens/Imagem TinkerCad.png">
 
 # Esquemático no Eagle
 
