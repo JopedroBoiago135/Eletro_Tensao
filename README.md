@@ -57,7 +57,7 @@ Link: https://tinyurl.com/2eew96xv
 
 # Esquema do TinkerCad
 
-<img src="./Imagens/Imagem TinkerCad.png">
+![Captura de tela 2023-07-14 142511](https://github.com/JopedroBoiago135/Eletro_Tensao/assets/135567614/d8eb473c-6a43-463e-b425-543977528007)
 
 # Esquemático no Eagle
 
