@@ -51,12 +51,17 @@ Projetar e construir uma fonte de tensão ajustavel entre 3V e 12V a partir de u
 # Calculo da Capacitância
 
 Ripple desejado: 4.8%
+
 Formula: C = Io/(2f * Vs * Ripple)
+
 Sendo, no nosso caso, Io = Iz + Is
 
 Iz = (18.2 - 13)/1200 = 4.3mA
+
 Is = 100mA
+
 Io = 100 + 4.3 = 104.3mA
+
 C = 0.1043 / (2 * 60 * 18.2 * 0.048)
 
 Capacitancia = 994.9252uF
