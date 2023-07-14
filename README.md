@@ -18,7 +18,7 @@ Projetar e construir uma fonte de tensão ajustavel entre 3V e 12V a partir de u
 |------------|------------------------------------|--------------|
 | 4          | Diodo                              |   R$ 02,00   |
 | 1          | Capacitor 1mF                      |   R$ 00,50   |
-| 1          | Resistor 5.6k                      |   R$ 00,70   |
+| 1          | Resistor 3.6k                      |   R$ 00,70   |
 | 1          | Resistor 1.2k                      |   R$ 00,07   |
 | 1          | Potenciômetro  10k                 |   R$ 04,75   |
 | 1          | Diodo Zener (13V)                  |   R$ 00,48   |
