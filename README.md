@@ -70,7 +70,7 @@ Foi escolhido o valor de mercado 1000uF.
 
 # Esquema do Projeto no Falstad
 
-<img src="./Imagens/Imagem Falstad.png">
+<img src="./Imagens/Falstad.png">
 
 Link: https://tinyurl.com/2etd5z8j
 
