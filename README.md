@@ -48,12 +48,26 @@ Projetar e construir uma fonte de tensão ajustavel entre 3V e 12V a partir de u
 
 - Resistor 120: Simula a saída da fonte.
 
+# Calculo da Capacitância
+
+Ripple desejado: 4.8%
+Formula: C = Io/(2f * Vs * Ripple)
+Sendo, no nosso caso, Io = Iz + Is
+
+Iz = (18.2 - 13)/1200 = 4.3mA
+Is = 100mA
+Io = 100 + 4.3 = 104.3mA
+C = 0.1043 / (2 * 60 * 18.2 * 0.048)
+
+Capacitancia = 994.9252uF
+
+Foi escolhido o valor de mercado 1000uF.
 
 # Esquema do Projeto no Falstad
 
 <img src="./Imagens/Imagem Falstad.png">
 
-Link: https://tinyurl.com/2eew96xv
+Link: https://tinyurl.com/2etd5z8j
 
 # Esquema do TinkerCad
 
