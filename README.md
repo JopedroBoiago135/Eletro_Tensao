@@ -40,7 +40,7 @@ Projetar e construir uma fonte de tensão ajustavel entre 3V e 12V a partir de u
 
 - Resistor 1.2k: Utilizado para reduzir o desperdicio de energia;
 
-- Resistor 5.6k: Utilizado para ajustar o limite inferior para 3V;
+- Resistor 3.6k: Utilizado para ajustar o limite inferior para 3V;
 
 - Potenciômetro: Permite o ajuste entre 3V e 12V;
 
