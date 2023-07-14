@@ -61,7 +61,7 @@ Link: https://tinyurl.com/2eew96xv
 
 # Esquemático no Eagle
 
-<img src="./Imagens/Imagem Eagle.png">
+![Imagem Eagle](https://github.com/JopedroBoiago135/Eletro_Tensao/assets/100847366/1efc06a3-81d0-4024-9b85-4396251df424)
 
 # PCB no Eagle
 
