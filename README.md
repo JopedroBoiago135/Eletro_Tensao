@@ -65,7 +65,7 @@ Link: https://tinyurl.com/2eew96xv
 
 # PCB no Eagle
 
-<img src="./Imagens/Imagem PCB.png">
+![Imagem PCB](https://github.com/JopedroBoiago135/Eletro_Tensao/assets/100847366/db5a0145-fb34-4613-baa6-0c2a32e72688)
 
 # Video Explicativo do Projeto (Youtube)
 
