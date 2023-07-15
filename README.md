@@ -88,6 +88,7 @@ Link: https://tinyurl.com/2etd5z8j
 
 # Video Explicativo do Projeto (Youtube)
 
+[![Vídeo - Fonte de Tensão](https://i9.ytimg.com/vi_webp/9B7ymdhBkuQ/mq2.webp?sqp=CLzhx6UG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGF8gZSg3MA8=&rs=AOn4CLA5iCh1qnYAkG0ZtKYVjFjylOWheg)](https://youtu.be/9B7ymdhBkuQ)
 
 # Agradecimentos
 - Agradecemos ao [Prof Simões](https://github.com/simoesusp) (vulgo Simas), pelos ensinamentos de eletronica e de como soldar;
